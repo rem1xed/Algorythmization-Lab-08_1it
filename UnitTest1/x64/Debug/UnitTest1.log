@@ -1,0 +1,4 @@
+﻿  UnitTest1.cpp
+C:\Users\User\source\repos\Algorythmization Lab 08_1it\UnitTest1\UnitTest1.cpp(1,9): warning C4603: '_CRT_SECURE_NO_WARNINGS': macro is not defined or definition is different after precompiled header use
+C:\Users\User\source\repos\Algorythmization Lab 08_1it\Algorythmization Lab 08_1it\Source.cpp(22,32): warning C4244: 'initializing': conversion from 'double' to 'size_t', possible loss of data
+  UnitTest1.vcxproj -> C:\Users\User\source\repos\Algorythmization Lab 08_1it\x64\Debug\UnitTest1.dll
